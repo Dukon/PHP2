@@ -1,5 +1,4 @@
 <?php
-
 // Настройки подключения к БД.
 $hostname = 'localhost';	
 $username = 'root'; 
